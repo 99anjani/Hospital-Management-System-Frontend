@@ -1,1 +1,1 @@
-Hositl Mnagement Projet
+Hositl Management Project
